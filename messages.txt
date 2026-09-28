@@ -1,0 +1,83 @@
+# One message per line. Lines starting with # are ignored.
+# Messages go under a [morning], [midday] or [afternoon] heading and are only
+# sent at that time of day. Each section cycles through all of its messages in
+# a shuffled order before any repeat. Add, remove or edit freely.
+
+[morning]
+# --- encouragement ---
+Good morning. You don't have to have a great day. You just have to get through this one, and you can.
+New day, clean slate. Yesterday doesn't get a vote.
+Reminder before it gets busy: you are more than your job title and your to-do list.
+You've survived 100% of your worst days so far. That's a pretty good record.
+Be as kind to yourself today as you'd be to a friend having the same day.
+Nobody is thinking about yesterday's mistake as much as you are. Let it go.
+Showing up is the hardest part, and you already did it.
+# --- quotes ---
+"Start where you are. Use what you have. Do what you can." — Arthur Ashe
+"It does not matter how slowly you go as long as you do not stop." — Confucius
+"Keep your face always toward the sunshine, and shadows will fall behind you." — Walt Whitman
+"You can't use up creativity. The more you use, the more you have." — Maya Angelou
+"What we achieve inwardly will change outer reality." — Plutarch
+# --- nudges ---
+Before you dive in: pick ONE thing that would make today feel like a win. Start there.
+Morning check: did you eat breakfast? Even something small counts.
+Put on a song you love for the first task. Work goes faster with a soundtrack.
+Drink a glass of water before the coffee kicks in. Future you says thanks.
+Three slow breaths before you open your inbox: in for 4, hold for 4, out for 6.
+# --- humor ---
+Today's forecast: 70% chance of getting through it, 30% chance of snacks. Both good outcomes.
+The coffee believes in you. The coffee has always believed in you.
+Plot twist: today is going to be better than you think.
+New quest accepted: survive until 5pm. Reward: the entire evening.
+
+[midday]
+# --- encouragement ---
+Halfway through the day. Whatever the morning was like, the afternoon is a fresh start.
+Small progress is still progress. Did one thing this morning? That counts.
+Hard days don't mean you're doing it wrong. They mean it's hard.
+The work matters less than you do. Take care of yourself first.
+You're allowed to find this boring, frustrating, or tiring — and still be proud of showing up.
+# --- quotes ---
+"The best way out is always through." — Robert Frost
+"Rest when you're weary. Refresh and renew yourself." — Ralph Marston
+"Almost everything will work again if you unplug it for a few minutes, including you." — Anne Lamott
+"You are allowed to be both a masterpiece and a work in progress." — Sophia Bush
+# --- nudges ---
+Lunch break check: have you actually eaten something? Not coffee. Food.
+Get up and walk for five minutes. Outside if you can. The screen will still be there.
+Step into some sunlight for a couple of minutes if you can — it genuinely helps.
+Look at something far away for 20 seconds. Your eyes have been staring at a screen all morning.
+Text someone you like. Just a "hey, thinking of you" is enough.
+Take your whole lunch break. The work won't notice. You will.
+# --- humor ---
+Midday status report: still employed, still hydrated (hopefully), still awesome.
+If today were a video game, you'd be at the checkpoint. Progress saved.
+Achievement unlocked: made it to lunch. +10 XP.
+Fun fact: sea otters hold hands while they sleep so they don't drift apart. That's all. Carry on.
+Remember: every email can wait five minutes. Most can wait forever.
+
+[afternoon]
+# --- encouragement ---
+The home stretch. Future you, at 5pm, is going to be glad you kept going.
+Some days the win is just "I showed up." Today that's enough.
+Whatever didn't get done today can get done tomorrow. You did plenty.
+You made it through the slump hours. That's the hardest part of the day, done.
+Tired is allowed. It means you've been working. Almost there.
+# --- quotes ---
+"Courage doesn't always roar. Sometimes it's the quiet voice at the end of the day saying 'I will try again tomorrow.'" — Mary Anne Radmacher
+"This too shall pass." — Persian proverb
+"Nothing is permanent in this wicked world — not even our troubles." — Charlie Chaplin
+"Do what you can, with what you have, where you are." — Theodore Roosevelt
+# --- nudges ---
+Unclench your jaw. Drop your shoulders. Relax your hands.
+Stretch: reach your arms overhead, lean left, lean right. Done. You're 5% less crunchy.
+Drink a glass of water. Seriously, right now. I'll wait. (Afternoon slumps are often just thirst.)
+Pick ONE thing to finish before you leave. Just one. Everything else is a bonus.
+Write down one thing that went okay today. Even a small one.
+Think of one thing you're looking forward to tonight. Hold on to that for the next hour.
+# --- humor ---
+Your productivity may be low, but your commitment to not throwing the computer out the window is inspiring.
+Somewhere out there a dog is very excited to see a stick. Be that dog about going home soon.
+Being an adult is mostly just saying "wow, what a day" and then having another one. You're nailing it.
+You're like a campfire — a little smoky by this time of day, but you keep everyone warm.
+The afternoon slump is real. So is the couch waiting for you at home.

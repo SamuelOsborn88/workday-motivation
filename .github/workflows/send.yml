@@ -1,0 +1,33 @@
+name: Send motivation
+
+on:
+  schedule:
+    # Chicago is UTC-5 in summer and UTC-6 in winter, so each slot runs at two
+    # UTC times; send.py only sends from the one that lands in the local window.
+    - cron: "7 14,15,17,18 * * 1-5"   # 9:07am and 12:07pm Chicago
+    - cron: "37 20,21 * * 1-5"        # 3:37pm Chicago
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Send this slot's message right now"
+        type: choice
+        options: [morning, midday, afternoon]
+        default: midday
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Send message
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          if [ -z "$NTFY_TOPIC" ]; then
+            echo "NTFY_TOPIC secret not set; add it under Settings > Secrets to enable sending."
+            exit 0
+          fi
+          python send.py ${{ github.event_name == 'workflow_dispatch' && format('--force {0}', inputs.slot) || '' }}
